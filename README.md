@@ -2,11 +2,13 @@
 A custom keyboard designed *almost entirely from scratch.
 
 Things Designed From Scratch
+
 -PCB (Using KiCad and ScottoKeebs Footprint and Symbol Libraries)
 
 -Casing (Using Sharpr3d to design and Ruby to laser cut the acrylic)
 
 Components Bought:
+
 -77 Key Switches 
 
 -77 1N4148 Diodes
@@ -20,6 +22,7 @@ Components Bought:
 -M.2 Screws and Standoffs
 
 I used the following resources to help with this project.
+
 -https://matt3o.com/anatomy-of-a-keyboard/
 
 -http://www.keyboard-layout-editor.com/
