@@ -5,15 +5,15 @@ Things Designed From Scratch
 
   -PCB (Using KiCad and ScottoKeebs Footprint and Symbol Libraries)
 
-  -Casing (Using Sharpr3d to design and Ruby to laser cut the acrylic)
+  -Casing (Using Ruby to laser cut the acrylic)
 
 Components Bought:
 
-  -77 Key Switches 
+  -77 Key Switches (Boba U4T)
 
   -77 1N4148 Diodes
 
-  -Durock Stabilizers
+  -Durock Plate Mounted Stabilizers
 
   -Raspberry Pi Pico
 
