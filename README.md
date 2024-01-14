@@ -7,6 +7,8 @@ Things Designed From Scratch
 
   -Casing (Using Ruby to laser cut the acrylic)
 
+  -Keyboard Matrix Firmware Code (Using KMK Firmware to do the majority of the processing.)
+
 Components Bought:
 
   -77 Key Switches (Boba U4T)
