@@ -1,6 +1,13 @@
 # Emu-Board
 A custom keyboard designed *almost entirely from scratch.
 
+Images:
+
+![20240208_105746](https://github.com/Emmanuel-Roy/Emu-Board/assets/54725843/0290e649-323b-4501-a999-c27d18d574dc)
+
+![20240208_105801](https://github.com/Emmanuel-Roy/Emu-Board/assets/54725843/420895b2-b452-477d-be12-1c1d5b0d4d0f)
+
+
 Things Designed From Scratch
 
   -PCB (Using KiCad and ScottoKeebs Footprint and Symbol Libraries)
