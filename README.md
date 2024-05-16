@@ -1,5 +1,5 @@
 # Emu-Board
-A Custom Keyboard Implementation Designed *Almost Entirely From Scratch.
+A Custom Keyboard Designed *Almost Entirely From Scratch.
 
 Images:
 
