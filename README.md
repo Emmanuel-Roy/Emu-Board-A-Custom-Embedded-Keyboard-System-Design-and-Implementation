@@ -1,4 +1,4 @@
-# Emu-Board
+# Emu-Board: A Custom Embedded Keyboard System Design and Implementation
 A Custom Keyboard Designed *Almost Entirely From Scratch.
 
 Images:
